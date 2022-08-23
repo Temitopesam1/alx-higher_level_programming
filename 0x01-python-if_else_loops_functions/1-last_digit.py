@@ -11,4 +11,3 @@ if ld > 5:
     print(F"Last digit of {number} is {ld} and is greater than 5")
 if ld == 0:
     print(F"Last digit of {number} is {ld} and is 0")
-
