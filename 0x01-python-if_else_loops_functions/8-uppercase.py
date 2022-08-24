@@ -6,4 +6,3 @@ def uppercase(str):
         if asci in range(97, 123):
             asci -= 32
         print("{}".format(chr(asci)), end="")
-        print()
