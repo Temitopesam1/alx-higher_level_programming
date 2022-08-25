@@ -10,5 +10,3 @@ else:
     for i in range(1, len(sys.argv)):
         a += int(sys.argv[i])
     print("{}".format(a))
-
-
